@@ -18,9 +18,6 @@
 # リポジトリをクローン
 git clone https://github.com/hiryamada/repo20260216.git
 cd repo20260216
-
-# 必要なパッケージをインストール
-pip install -r requirements.txt
 ```
 
 ## 使用方法
