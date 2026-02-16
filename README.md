@@ -1,29 +1,29 @@
 # repo20260216
 
-## プロジェクト概要
+## Project Overview
 
-このプロジェクトはPythonのWebアプリケーションプロジェクトです。
+This project is a Python web application project.
 
-## 説明
+## Description
 
-本プロジェクトはPythonを使用したWebアプリケーション開発のためのプロジェクトです。
+This project is intended for developing web applications using Python.
 
-## 必要要件
+## Requirements
 
 - Python 3.x
 
-## セットアップ
+## Setup
 
 ```bash
-# リポジトリをクローン
+# Clone the repository
 git clone https://github.com/hiryamada/repo20260216.git
 cd repo20260216
 ```
 
-## 使用方法
+## Usage
 
-アプリケーションの実行方法については、今後のドキュメントを参照してください。
+For instructions on how to run the application, please refer to future documentation.
 
-## ライセンス
+## License
 
-このプロジェクトのライセンスについては、プロジェクト管理者にお問い合わせください。
+For information about this project's license, please contact the project administrator.
